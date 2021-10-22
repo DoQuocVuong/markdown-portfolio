@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Emoji:
+  * 🖤
+  * 🍌
+  * 💙
+ 1. Emotion
+ 2. Emotional
+    1. Sad
+    2. Happy
